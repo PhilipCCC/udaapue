@@ -12,5 +12,6 @@ int main(void)
   b = 1;
   c=2;
   printf("a=%d.\n", a);
+  //print return
   return 0;
 }
