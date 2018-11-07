@@ -8,5 +8,6 @@ int main(void)
   a = 0;
   b = 1;
   printf("a=%d.\n", a);
+  //print return
   return 0;
 }
