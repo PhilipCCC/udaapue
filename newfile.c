@@ -11,5 +11,6 @@ int main(void)
   a = 0;
   b = 1;
   printf("a=%d.\n", a);
+  c = 2;
   return 0;
 }
