@@ -12,7 +12,7 @@ int main(void)
   b = 1;
   //haha
   //heihei
-  printf("a=%d.\n", a);
+  printf("a=%d.!!!\n", a);
   //print return
   return 0;
 }
