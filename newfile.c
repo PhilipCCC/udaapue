@@ -11,6 +11,7 @@ int main(void)
   a = 0;
   b = 1;
   //haha
+  //heihei
   printf("a=%d.\n", a);
   //print return
   return 0;
