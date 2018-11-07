@@ -7,6 +7,7 @@ int main(void)
   int d;
   a = 0;
   b = 1;
+  //heihei
   printf("a=%d.\n", a);
   //print return
   return 0;
