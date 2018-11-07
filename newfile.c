@@ -10,6 +10,7 @@ int main(void)
   int d;
   a = 0;
   b = 1;
+  //haha
   printf("a=%d.\n", a);
   //print return
   return 0;
