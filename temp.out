@@ -1,5 +1,0 @@
-a xwrite to stdout
-before fork
-pid = 3931, glob = 7, var = 89
-before fork
-pid = 3930, glob = 6, var = 88
